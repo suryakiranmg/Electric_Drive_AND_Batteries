@@ -1,3 +1,6 @@
-## Electric Drive & Batteries
-Electric Drive and Battery Topics
+## Electric Drive & Battery Topics
+
+1) Solid State Battery
+2) Lifecycle CO2 Emissions of EV Battery
+
 
