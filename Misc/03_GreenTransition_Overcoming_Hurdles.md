@@ -85,7 +85,7 @@ __Strengthen Policy & Fair Trade:__
 - Create reserves to buffer against shortages
 - Confront resource nationalism through diplomacy and cooperation.
 - Negotiate fair-trade pacts with other countries for mineral access
-- Integrating justice-driven policies – because “Nature cannot be fooled"—neither can communities bearing the brunt of extractivism.
+- Integrate justice-driven policies – because “Nature cannot be fooled"—neither can communities bearing the brunt of extractivism.
 
 __Invest in Long-term Solutions:__
 
