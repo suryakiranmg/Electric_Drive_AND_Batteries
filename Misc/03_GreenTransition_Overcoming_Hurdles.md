@@ -59,8 +59,8 @@ __To manage this transition effectively, several strategies can be considered:__
 
 __Substitute Critical Minerals:__
 
--   Replace Cobalt with Manganese or Aluminum in batteries; use induction motors (non-rare earth) in EVs (performance limitations exist).
--   Promote batteries with lower critical mineral needs (e.g., lithium iron phosphate (LFP) or sodium-ion batteries).
+-   Replace Cobalt with Manganese or Aluminum in batteries; use induction motors (non-rare earth) in EVs _*(performance limitations exist).*_
+-   Promote batteries with lower critical mineral needs _*(e.g., lithium iron phosphate (LFP) or sodium-ion batteries).*_
 -   Promote smaller EV batteries, car-sharing and public transit to reduce per-capita mineral demand.
 
 __Diversifying the Supply Chain:__
@@ -71,9 +71,9 @@ __Diversifying the Supply Chain:__
 
 __Recycling & Circular Economy:__
 
-- Encourage recycling of end-of-life EVs and innovations in recycling methods (still in early stages of development, recovery rates <50%)
+- Encourage recycling of end-of-life EVs and innovations in recycling methods _*(still in early stages of development, recovery rates only <50%)*_
 - Extract minerals from e-waste, incentive recycling
-- Encourage consumers to adopt energy-efficient practices and prolong the use of products (e.g., extending the lifespan of batteries by repurposing for secondary storage applications)
+- Encourage consumers to adopt energy-efficient practices and prolong the use of products _*(e.g., extending the lifespan of batteries by repurposing for secondary storage applications)*_
 
 __Innovation in Technology and Alternate Materials:__
 
@@ -89,7 +89,7 @@ __Strengthen Policy & Fair Trade:__
 
 __Invest in Long-term Solutions:__
 
-- R&D funding support for breakthroughs in recycling, substitution, and extraction technology (e.g., bioleaching, deep-sea mining).
+- R&D funding support for breakthroughs in recycling, substitution, and alternate extraction technology _*(e.g., bioleaching, deep-sea mining - still in early stages).*_
 ---
 
 The supply chain vulnerabilities, battery chemistry risks, and ethical mining challenges expose the __"messy middle"__ of the energy transition, where __ambitious goals collide with material, political, and human realities – potentially replicating the extractive harms of fossil fuels.__
