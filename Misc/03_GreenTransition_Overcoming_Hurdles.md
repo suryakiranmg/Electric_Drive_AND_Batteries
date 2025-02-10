@@ -27,7 +27,7 @@ Revamping the energy system and a 125 years old transportation sector mean juggl
 
 As Nobel Prize–winning physicist Richard Feynman warned: __“For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled.”__
 
-To navigate these complexities, it's time to adopt a realistic approach: one rooted in "systems thinking" and "discovery-driven planning." These approaches enable us to consider the entire ecosystem, adapt, learn, and respond to emerging challenges as we work toward building a more sustainable, resilient future.
+To navigate these complexities, it's time to adopt a realistic approach: one rooted in __"systems thinking"__ and __"discovery-driven planning."__ These approaches enable us to consider the entire ecosystem, adapt, learn, and respond to emerging challenges as we work toward building a more sustainable, resilient future.
 
 While, EVs offer compelling advantages, particularly in terms of lower component count, reduced maintenance costs, greater energy efficiency, and simpler charging infrastructure - the nascent industry still faces substantial challenges, including the complexities of sourcing critical minerals, evolving battery technology, gaps in infrastructure, and consumer adoption.
 
