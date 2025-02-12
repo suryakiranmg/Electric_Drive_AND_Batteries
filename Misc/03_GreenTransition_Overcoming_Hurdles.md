@@ -72,7 +72,7 @@ __Diversifying the Supply Chain:__
 __Recycling & Circular Economy:__
 
 - Encourage recycling of end-of-life EVs and innovations in recycling methods _*(still in early stages of development, recovery rates only <50%)*_
-- Extract minerals from e-waste, incentive recycling
+- Extract minerals from e-waste, incentivize recycling
 - Encourage consumers to adopt energy-efficient practices and prolong the use of products _*(e.g., extending the lifespan of batteries by repurposing for secondary storage applications)*_
 
 __Innovation in Technology and Alternate Materials:__
