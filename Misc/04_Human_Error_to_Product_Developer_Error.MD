@@ -12,7 +12,6 @@ The "black box" nature of Autonomous Vehicles (AVs) makes them non-deterministic
 
 __Ethics & Public Trust:__  Product Developers face scrutiny over how AI systems prioritize safety in unavoidable accidents. The latest Cyber truck accident (Feb 2025) - where the truck failed to merge out of a lane that was ending, hit the curb and crashed into a pole - is a warning sign about the safety of the technology. 
 Despite the promises of ‘immense improvements’ after every safety incident from automakers; AI systems still lack the cognitive adaptability of human drivers.
-
 __Infrastructure Readiness:__ Most roads rely heavily on human drivers' judgment, such as interpreting unclear road signs or making split-second decisions in complex driving situations. Autonomous vehicles, on the other hand, need clear & consistent infrastructure to function effectively. For our roads to be AV ready, we need Better Road Signage and Markings, Smart Traffic Signals, 5G + networks, Dedicated short range communications, and Vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication. 
 V2V enables vehicles to share information about their speed, location, and intentions, while V2I allows communication between vehicles and traffic infrastructure, like traffic lights or toll booths. 
 ---
