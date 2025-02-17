@@ -4,7 +4,7 @@ As autonomous driving technologies advance, the responsibility for vehicle motio
 
 ### Towards Full Autonomy:
 
-Technology & safety: Product developers are leveraging cutting-edge technologies like Advanced sensors (LiDAR, Radar, Cameras, Ultrasonics), AI algorithms with 360-degree environmental perception in real-time, HD maps, Over-the-Air updates to refine the systems continuously, and redundant and fail-safe mechanisms to enhance safety and reliability of autonomous navigation.  
+__Technology & safety:__ Product developers are leveraging cutting-edge technologies like Advanced sensors (LiDAR, Radar, Cameras, Ultrasonics), AI algorithms with 360-degree environmental perception in real-time, HD maps, Over-the-Air updates to refine the systems continuously, and redundant and fail-safe mechanisms to enhance safety and reliability of autonomous navigation.  
 Despite all these, systems struggle with edge cases like rare scenarios, extreme weather conditions, unpredictable pedestrian behaviors etc. Also ensuring cybersecurity is a challenge.
 Regulations & Liability: Product developers must navigate evolving regulations like ISO26262, UNECE WP.29 and ISO/SAE 21434 (automotive cybersecurity management systems), and liability is being shifted from drivers to manufacturers for Level3+ autonomy. In many cases, developers are ahead of regulations, making it difficult to determine what constitutes "safe" or "acceptable" behavior for these vehicles.
 The "black box" nature of Autonomous Vehicles (AVs) makes them non-deterministic and non-repeatable. Also, regulatory fragmentation between different countries/regions complicates global deployment.
