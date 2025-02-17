@@ -1,7 +1,8 @@
-# As responsibility of vehicle motion shifts from drivers to product developers, are the product developers prepared to take that responsibility?
+## As responsibility of vehicle motion shifts from drivers to product developers, are the product developers prepared to take that responsibility?
 
 As autonomous driving technologies advance, the responsibility for vehicle motion is shifting from drivers to product developers. While major progress is being made, there's still a long way ahead before full autonomy becomes a reality—so we're not quite there yet.
-Towards Full Autonomy:
+
+### Towards Full Autonomy:
 
 Technology & safety: Product developers are leveraging cutting-edge technologies like Advanced sensors (LiDAR, Radar, Cameras, Ultrasonics), AI algorithms with 360-degree environmental perception in real-time, HD maps, Over-the-Air updates to refine the systems continuously, and redundant and fail-safe mechanisms to enhance safety and reliability of autonomous navigation.  
 Despite all these, systems struggle with edge cases like rare scenarios, extreme weather conditions, unpredictable pedestrian behaviors etc. Also ensuring cybersecurity is a challenge.
