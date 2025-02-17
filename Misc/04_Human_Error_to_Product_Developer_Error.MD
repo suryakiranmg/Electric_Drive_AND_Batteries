@@ -20,7 +20,7 @@ V2V enables vehicles to share information about their speed, location, and inten
 
 Take the case of the trolley problem, a classic ethical dilemma, involving a choice between two undesirable outcomes-where a decision has to be made to kill 1 person to save 5 others or vice versa or self-destroy to save everyone else. How should the vehicle behave in situations where harm is inevitable? 
 
-V2V communication could help autonomous vehicles make more informed, coordinated, and potentially less ethically problematic decisions in these types of scenarios. Vehicles can inform each other about their actions and intentions – potentially avoiding isolated decision making like swerving into a dangerous area. 
+V2V communication could help autonomous vehicles make more informed, coordinated, and potentially less ethically problematic decisions in these types of scenarios. Vehicles can inform each other about their actions and intentions – potentially avoiding isolated decision making like swerving into a dangerous area.
 
 Now, dilemmas are deeply subjective – V2V can’t completely solve the trolley problem but it can help AVs make more informed context-aware decisions.
 ---
