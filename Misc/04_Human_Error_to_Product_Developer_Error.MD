@@ -1,6 +1,6 @@
 ## As responsibility of vehicle motion shifts from drivers to product developers, are the product developers prepared to take that responsibility?
 
-As autonomous driving technologies advance, the responsibility for vehicle motion is shifting from drivers to product developers. While major progress is being made, there's still a long way ahead before full autonomy becomes a reality—so we're not quite there yet.
+As autonomous driving technologies advance, the responsibility for vehicle motion will shift from drivers to product developers. While major progress is being made, there's still a long way ahead before full autonomy becomes a reality — so we're not quite there yet.
 
 ### Towards Full Autonomy:
 
