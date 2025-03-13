@@ -13,7 +13,11 @@
    
 6. Paradox of Catastrophes - Case Study
 
-7. xx
+7. Mental Models - A Global Perspective
+
+8. xyz
+
+   
 ---
 
 ---
