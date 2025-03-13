@@ -11,7 +11,9 @@
 
 5. HyperComplex Systems - Cognitive overload
    
-6. 
+6. Paradox of Catastrophes - Case Study
+
+7. xx
 ---
 
 ---
