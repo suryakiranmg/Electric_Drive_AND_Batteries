@@ -97,5 +97,10 @@ The supply chain vulnerabilities, battery chemistry risks, and ethical mining ch
 The global transition to renewable energy and electric vehicles must be advanced — __through radical innovation, collective action, and responsible stewardship__ – leading into a resilient, ethical, and sustainable transformation. This can only be achieved with thoughtful policies, equitable practices, and a strong commitment to minimizing both environmental and social impacts. 
 
 
+---
+
+Inspiration Drawn from : https://spectrum.ieee.org/the-ev-transition-explained-2659602311
+
+
 
 
